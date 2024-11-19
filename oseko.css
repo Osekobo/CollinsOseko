@@ -1,0 +1,20 @@
+.title{
+  font-size: 30px;
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  line-height: 50px;
+  margin-left: 50px;
+  width: 200px;
+  object-fit: cover;
+}
+.des{
+  font-size: 20px;
+  object-fit: cover;
+  width: 400px;
+}
+.image{
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
